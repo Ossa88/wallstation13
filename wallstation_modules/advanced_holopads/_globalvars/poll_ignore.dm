@@ -66,7 +66,7 @@ GLOBAL_LIST_INIT(poll_ignore_desc, list(
 	POLL_IGNORE_MONKEY_HELMET = "Mind magnified monkey",
 	POLL_IGNORE_PAI = JOB_PERSONAL_AI,
 	POLL_IGNORE_POSIBRAIN = "Positronic brain",
-	POLL_IGNORE_EM_HOLOGRAM "emergency_hologram"
+	POLL_IGNORE_EM_HOLOGRAM = "Emergency Hologram",
 	POLL_IGNORE_POSSESSED_BLADE = "Possessed blade",
 	POLL_IGNORE_PYROSLIME = "Slime",
 	POLL_IGNORE_RAW_PROPHET = "Raw Prophet",
