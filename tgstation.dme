@@ -544,6 +544,7 @@
 #include "code\_globalvars\lists\ores_spawned.dm"
 #include "code\_globalvars\lists\plumbing.dm"
 //#include "code\_globalvars\lists\poll_ignore.dm"
+#include "wallstation_modules\advanced_holopads\_globalvars\poll_ignore.dm"
 #include "code\_globalvars\lists\quirks.dm"
 #include "code\_globalvars\lists\rcd.dm"
 #include "code\_globalvars\lists\reagents.dm"
@@ -579,6 +580,7 @@
 #include "code\_onclick\hud\drones.dm"
 #include "code\_onclick\hud\fullscreen.dm"
 //#include "code\_onclick\hud\generic_dextrous.dm"
+#include "wallstation_modules\advanced_holopads\hud\generic_dextrous.dm" // Edited File
 #include "code\_onclick\hud\ghost.dm"
 #include "code\_onclick\hud\guardian.dm"
 #include "code\_onclick\hud\hud.dm"
@@ -2041,6 +2043,7 @@
 #include "code\game\machinery\gulag_teleporter.dm"
 #include "code\game\machinery\harvester.dm"
 //#include "code\game\machinery\hologram.dm"
+#include "wallstation_modules\advanced_holopads\machinery\hologram.dm" // Edited File
 #include "code\game\machinery\hypnochair.dm"
 #include "code\game\machinery\igniter.dm"
 #include "code\game\machinery\incident_display.dm"
@@ -2620,6 +2623,7 @@
 #include "code\game\objects\items\storage\bags.dm"
 #include "code\game\objects\items\storage\basket.dm"
 //#include "code\game\objects\items\storage\belt.dm"
+#include "Wallstation_modules\advanced_holopads\items\belt.dm" // Edited file
 #include "code\game\objects\items\storage\briefcase.dm"
 #include "code\game\objects\items\storage\fancy.dm"
 #include "code\game\objects\items\storage\garment.dm"
@@ -6368,14 +6372,10 @@
 #include "interface\fonts\tiny_unicode.dm"
 #include "interface\fonts\vcr_osd_mono.dm"
 #include "wallstation_modules\rat-reagent.dm"
-#include "wallstation_modules\advanced_holopads\_globalvars\poll_ignore.dm" // Edited File
 #include "wallstation_modules\advanced_holopads\holograms\em_holopads.dm" // New File
 #include "wallstation_modules\advanced_holopads\holograms\hologram.dm" // New File
 #include "wallstation_modules\advanced_holopads\holograms\hologram_inventory.dm" // New File
-#include "wallstation_modules\advanced_holopads\hud\generic_dextrous.dm" // Edited File
 #include "wallstation_modules\advanced_holopads\hud\holograms.dm" // New File
-#include "Wallstation_modules\advanced_holopads\items\belt.dm" // Edited file
-#include "wallstation_modules\advanced_holopads\machinery\hologram.dm" // Edited File
 #include "wallstation_modules\extra_loadout\code\pocket.dm"
 #include "wallstation_modules\flavor_text_module\examine_tgui.dm"
 #include "wallstation_modules\flavor_text_module\preferences_savefile.dm"
