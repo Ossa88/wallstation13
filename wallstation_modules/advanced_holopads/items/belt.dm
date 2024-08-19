@@ -403,7 +403,7 @@ ORGINAL FILE: code/game/objects/items/storage/belt.dm
 	to_preload += /obj/item/scalpel/advanced
 	to_preload += /obj/item/retractor/advanced
 	to_preload += /obj/item/cautery/advanced
-	to_preload += /obj/item/healthanalyzer,
+	to_preload += /obj/item/healthanalyzer
 	to_preload += /obj/item/stack/medical/bone_gel
 	return to_preload
 
