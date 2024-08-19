@@ -1,4 +1,10 @@
 /*
+NEW FILE: code/_onclick/hud/generic_dextrous.dm
+
+*/
+
+
+/*
 DRONE INVENTORY
 
 Drone inventory

@@ -1,3 +1,8 @@
+/*
+NEW FILE: code/modules/mob/living/carbon/hologram/hologram.dm
+
+*/
+
 #define HOLOGRAM_CYCLE_COLORS list("#00ffff", "#ffc0cb", "#9400D3", "#4B0082", "#0000FF", "#00FF00", "#FFFF00", "#FF7F00", "#FF0000")
 
 /mob/living/simple_animal/hologram

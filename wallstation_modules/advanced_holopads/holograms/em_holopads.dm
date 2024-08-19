@@ -1,3 +1,7 @@
+/*
+NEW FILE: code/modules/mob/living/carbon/hologram/em_holopads.dm
+
+*/
 
 /obj/machinery/holopad/emergency
 	name = "advanced holopad"
@@ -133,10 +137,13 @@
 	em_name = "engineering"
 	em_spawn_type = /mob/living/simple_animal/hologram/engineering
 
+/*
+// Removed. Has HoP access to changing IDs... previous code out of date cards_id.dm needs to be updated to fall in line with modern cards.
 /obj/machinery/holopad/emergency/command
 	name = "advanced command holopad"
 	em_name = "command"
 	em_spawn_type = /mob/living/simple_animal/hologram/command
+*/
 
 /obj/machinery/holopad/emergency/kitchen
 	name = "advanced kitchen holopad"
